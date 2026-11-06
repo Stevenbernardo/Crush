@@ -370,7 +370,7 @@ function App() {
                 <p>
                   Anyway, keep smiling, Teacher.
                   You make the workplace a little
-                  more interesting just like ur bangs HAHAHA. 😊
+                  more interesting just like ur FACE HAHAHA. 😊
                 </p>
 
                 <div className="letter-signature">
